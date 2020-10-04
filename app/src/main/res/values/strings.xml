@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">Find Food and Buildings</string>
+    <string-array name="food_places">//all the food places
+        <item>Mikey\'s Grill</item>
+        <item>Lyn</item>
+        <item>John\'s Lunch Cart</item>
+        <item>Rami\'s</item>
+        <item>Sandwich Cart at 35th/Market</item>
+        <item>Gul\'s Breakfast and Lunch Cart </item>
+        <item>Pete\'s Little Lunch Box</item>
+        <item>Magic Carpet at 36th/Spruce</item>
+        <item>Troy Mediterranean at 38th/Spruce</item>
+        <item>Fruit Trick at 37th/Spruce</item>
+        <item>Memo\'s Lunch Truck</item>
+        <item>Hanan House of Pita</item>
+        <item>Fruit Truck at 35th/Market</item>
+        <item>Troy Mediterranean at 40th/Spruce</item>
+        <item>Sonic\'s</item>
+        <item>Ali Baba</item>
+    </string-array>
+    <string-array name="Addresses">//all the addresses for the places
+        <item>34th and Market</item>
+        <item>36th and Spruce</item>
+        <item>33rd and Spruce </item>
+        <item>40th and Locust </item>
+        <item>35th and Market</item>
+        <item>36th and Market</item>
+        <item>33rd and Lancaster</item>
+        <item>36th and Spruce</item>
+        <item>38th and Spruce</item>
+        <item>37th and Spruce</item>
+        <item>33rd and Arch</item>
+        <item>38th and Walnut</item>
+        <item>35th and Market</item>
+        <item>40th and Spruce</item>
+        <item>37th and Spruce</item>
+        <item>37th and Walnut</item>
+    </string-array>
+    <string-array name="type">//all the kinds of food
+        <item>American, Sandwiches</item>
+        <item>American, Sandwiches</item>
+        <item>American, Sandwiches</item>
+        <item>Middle-Eastern</item>
+        <item>American, Sandwiches</item>
+        <item>American, Sandwiches</item>
+        <item>American, Sandwiches</item>
+        <item>Vegetarian</item>
+        <item>Middle-Eastern</item>
+        <item>Fruit</item>
+        <item>Middle-Eastern</item>
+        <item>Middle-Eastern</item>
+        <item>Fruit</item>
+        <item>Middle-Eastern</item>
+        <item>American, Sandwiches</item>
+        <item>Middle-Eastern</item>
+    </string-array>
+    <string-array name="hours">
+        <item> </item>
+        <item>6:00am-3:00pm (MF)</item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item>6:00am-4:00pm (MF), 6:00am-4:00pm (Sa)</item>
+        <item>11:30am-3:00pm (MF)</item>
+        <item> </item>
+        <item>11:30am-6:30pm (MF)</item>
+        <item>12:00am-12:00pm (MF)</item>
+        <item>11:00am-8:00pm (MF), 11:00am-8:00pm (Sa)</item>
+        <item> </item>
+        <item> </item>
+        <item>8:30am-5:30pm (MF)</item>
+        <item>8:00am-4:00pm (MF)</item>
+    </string-array>
+    <string-array name="phone">
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item>(215)605–1228</item>
+        <item>(215)327–7533</item>
+        <item>(610)659–8855</item>
+        <item> </item>
+        <item>(215)939–4386</item>
+        <item>(267)226–5692</item>
+        <item> </item>
+        <item>(610)659–8855</item>
+        <item> </item>
+        <item> </item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+    <string name="button_main">Map</string>
+
+</resources>
